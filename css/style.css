@@ -2,3 +2,5 @@ body{background-color: black;}
 h1{color: beige; font-size: 36px;}
 .banner{height: 300px;}
 .imgcard{height: 200px;}
+.frm{text-align: center; color: white;}
+.boton{background-color: blue;color: white;border-radius: 20px;}
